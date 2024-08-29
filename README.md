@@ -1,3 +1,4 @@
+# Jain Literature Open Repository (JLOR)
 <p align="center">
     <img src="https://jaingpt.org/prakritom.jpg" width="200px">
 </p>
