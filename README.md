@@ -2,7 +2,11 @@
     <img src="https://jaingpt.org/prakritom.jpg" width="200px">
 </p>
 
-The **Jain Literature Open Repository (JLOR)** is a public list of all canonical and post-canonical scriptures of Jainism and their translations. This includes the Agams, Anuyogas, and many other texts by prominent Acharyas in the last two millennia.
+The **Jain Literature Open Repository (JLOR)** is a public list of all canonical and post-canonical scriptures of Jainism and their **English translations**. This includes the Agams, Anuyogas, and many other texts by prominent Acharyas.
+
+
+> [!NOTE]  
+> Current translation quality is only acceptable for discoverability purposes and general understanding. Currently, GPT-4o-mini is being used to generate the translations. The translation processing will be re-run over the next few years and will gradually improve the accuracy. 
 
 
 ## 📖 Anuyogas and Digambar Texts
