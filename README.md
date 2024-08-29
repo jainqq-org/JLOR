@@ -7,9 +7,9 @@ The **Jain Literature Open Repository (JLOR)** is a public list of all canonical
 
 ## 📖 Anuyogas and Digambar Texts
 
-- [**Shatkhand Agam**](https://jainqq.org/explore/600006/1) (English)
+- [**Shatkhand Agam**](https://jainqq.org/explore/600006/1)
   - [Other versions](https://jainqq.org/?q=Shatkhand%20Agam&browse=1)
-- [**Kashayapahud**](https://jainqq.org/explore/010396/1) (English)
+- [**Kashayapahud**](https://jainqq.org/explore/010396/1)
   - [Other versions](https://jainqq.org/?q=Kashayapahud&browse=1)
  
 ### 📚 Pratham Anuyoga (Religious stories)
@@ -24,24 +24,29 @@ The **Jain Literature Open Repository (JLOR)** is a public list of all canonical
   - [Other versions](https://jainqq.org/?q=Adipurana&browse=1)
 - [**Uttara purana**](https://jainqq.org/explore/002728/1)
   - [Other versions](https://jainqq.org/?q=Uttara%20purana&browse=1)
+ 
+### 📚 Charn Anuyoga (Conduct)
 - [**Mulachar**](https://jainqq.org/explore/022324/1)
   - [Other versions](https://jainqq.org/?q=Mulachar&browse=1)
 - [**Traivarnikachar**](https://jainqq.org/explore/010851/1)
   - [Other versions](https://jainqq.org/?q=Traivarnikachar&browse=1)
 - [**Ratnakarandaka Shravakachara**](https://jainqq.org/explore/010669/1)
   - [Other versions](https://jainqq.org/?q=Ratnakarandaka%20Shravakachara&browse=1)
+ 
+### 📚 Karana Anuyoga (Description of the Universe)
 - [**Suryaprajnapti Chandraprajnapti**](https://jainqq.org/explore/003459/1)
   - [Other versions](https://jainqq.org/?q=Suryaprajnapti%20Chandraprajnapti&browse=1)
-- [**Karananuyoga Part 1**](https://jainqq.org/explore/090245/1)
-  - [Other versions](https://jainqq.org/?q=Karananuyoga%20Part%201&browse=1)
-- [**Karananuyoga Part 2**](https://jainqq.org/explore/090246/1)
-  - [Other versions](https://jainqq.org/?q=Karananuyoga%20Part%202&browse=1)
-- [**Karananuyoga Part 3**](https://jainqq.org/explore/090247/1)
-  - [Other versions](https://jainqq.org/?q=Karananuyoga%20Part%203&browse=1)
+- **Karananuyoga**
+    - [**Karananuyoga Part 1**](https://jainqq.org/explore/090245/1)
+    - [**Karananuyoga Part 2**](https://jainqq.org/explore/090246/1)
+    - [**Karananuyoga Part 3**](https://jainqq.org/explore/090247/1)
+    - [Other versions](https://jainqq.org/?q=Karananuyoga&browse=1)
 - [**Gommatasara Karma kanda**](https://jainqq.org/explore/090180/1)
   - [Other versions](https://jainqq.org/?q=Gommatasara%20Karma%20kanda&browse=1)
 - [**Gommatsara Jiva kanda**](https://jainqq.org/explore/090177/1)
   - [Other versions](https://jainqq.org/?q=Gommatsara%20Jiva%20kanda&browse=1)
+
+### 📚 Dravya Anuyoga (Philosophy)
 - [**Niyamasar**](https://jainqq.org/?q=Niyamasar&browse=1)
 - [**Panchastikaya**](https://jainqq.org/explore/090326/1)
   - [Other versions](https://jainqq.org/?q=Panchastikaya&browse=1)
@@ -54,15 +59,16 @@ The **Jain Literature Open Repository (JLOR)** is a public list of all canonical
   - [Other versions](https://jainqq.org/?q=Sarvarthasiddhi&browse=1)
 - [**Aptamimansa**](https://jainqq.org/explore/001170/1)
   - [Other versions](https://jainqq.org/?q=Aptamimansa&browse=1)
-- [****](https://jainqq.org/explore/000000/1)
-  - [Other versions](https://jainqq.org/?q=&browse=1)
+
+## 📖 Shwetambar Agams
+### 📚 Ang Agams (Oldest religious scriptures and the foundation of Jain literature)
 - [**Acharang Sutra**](https://jainqq.org/?q=Acharang%20Sutra&browse=1)
 - [**Sutrakritanga Sutra**](https://jainqq.org/explore/032440/1)
   - [Other versions](https://jainqq.org/?q=Sutrakritanga%20Sutra&browse=1)
-- [**Sthananga Sutra Part 1**](https://jainqq.org/explore/002905/1)
-  - [Other versions](https://jainqq.org/?q=Sthananga%20Sutra%20Part%201&browse=1)
-- [**Sthananga Sutra Part 2**](https://jainqq.org/explore/002906/1)
-  - [Other versions](https://jainqq.org/?q=Sthananga%20Sutra%20Part%202&browse=1)
+- **Sthananga Sutra**
+    - [**Sthananga Sutra Part 1**](https://jainqq.org/explore/002905/1)
+    - [**Sthananga Sutra Part 2**](https://jainqq.org/explore/002906/1)
+    - [Other versions](https://jainqq.org/?q=Sthananga%20Sutra&browse=1)
 - [**Samvayanga Sutra**](https://jainqq.org/explore/003441/1)
   - [Other versions](https://jainqq.org/?q=Samvayanga%20Sutra&browse=1)
 - [**Bhagavati Sutra**](https://jainqq.org/explore/002902/1)
@@ -79,8 +85,8 @@ The **Jain Literature Open Repository (JLOR)** is a public list of all canonical
   - [Other versions](https://jainqq.org/?q=Prashna%20Vyakaran%20Sutra&browse=1)
 - [**Vipaka Sutra**](https://jainqq.org/explore/006821/1)
   - [Other versions](https://jainqq.org/?q=Vipaka%20Sutra&browse=1)
-- [****](https://jainqq.org/explore/000000/1)
-  - [Other versions](https://jainqq.org/?q=&browse=1)
+
+### 📚 Upang Agams (Scriptures that provide further explanation of the Ang agams)
 - [**Aupapatik Sutra**](https://jainqq.org/explore/002910/1)
   - [Other versions](https://jainqq.org/?q=Aupapatik%20Sutra&browse=1)
 - [**Rajprashniya Sutra**](https://jainqq.org/explore/007653/1)
@@ -103,8 +109,8 @@ The **Jain Literature Open Repository (JLOR)** is a public list of all canonical
   - [Other versions](https://jainqq.org/?q=Pushpchulika%20Sutra&browse=1)
 - [**Vrushnidasa Sutra**](https://jainqq.org/explore/006845/1)
   - [Other versions](https://jainqq.org/?q=Vrushnidasa%20Sutra&browse=1)
-- [****](https://jainqq.org/explore/000000/1)
-  - [Other versions](https://jainqq.org/?q=&browse=1)
+
+### 📚 Chhed Agam Sutras (Scriptures that describe the conduct and behavior of monks and nuns)
 - [**Nishith Sutra**](https://jainqq.org/explore/003462/1)
   - [Other versions](https://jainqq.org/?q=Nishith%20Sutra&browse=1)
 - [**Bruhat Kalpa Sutra**](https://jainqq.org/explore/003493/1)
@@ -117,8 +123,8 @@ The **Jain Literature Open Repository (JLOR)** is a public list of all canonical
   - [Other versions](https://jainqq.org/?q=Jitkalpa%20Sutra&browse=1)
 - [**Mahanishith Sutra**](https://jainqq.org/explore/034707/1)
   - [Other versions](https://jainqq.org/?q=Mahanishith%20Sutra&browse=1)
-- [****](https://jainqq.org/explore/000000/1)
-  - [Other versions](https://jainqq.org/?q=&browse=1)
+
+### 📚 Mool Sutras (Scriptures that provide basic foundation for monks to study at initiation)
 - [**Avashyaka Sutra**](https://jainqq.org/explore/003464/1)
   - [Other versions](https://jainqq.org/?q=Avashyaka%20Sutra&browse=1)
 - [**Dasvaikalik Sutra**](https://jainqq.org/explore/007649/1)
@@ -127,14 +133,14 @@ The **Jain Literature Open Repository (JLOR)** is a public list of all canonical
   - [Other versions](https://jainqq.org/?q=Uttaradhyayana%20Sutra&browse=1)
 - [**Pind Niryukti Sutra**](https://jainqq.org/explore/001945/1)
   - [Other versions](https://jainqq.org/?q=Pind%20Niryukti%20Sutra&browse=1)
-- [****](https://jainqq.org/explore/000000/1)
-  - [Other versions](https://jainqq.org/?q=&browse=1)
+
+### 📚 Chullika Sutras (Scriptures that enhance and further describe Ang agams)
 - [**Nandi Sutra**](https://jainqq.org/explore/007652/1)
   - [Other versions](https://jainqq.org/?q=Nandi%20Sutra&browse=1)
 - [**Anuyogadvara Sutra**](https://jainqq.org/explore/007655/1)
   - [Other versions](https://jainqq.org/?q=Anuyogadvara%20Sutra&browse=1)
-- [****](https://jainqq.org/explore/000000/1)
-  - [Other versions](https://jainqq.org/?q=&browse=1)
+
+### 📚 Prakirnak Sutras (Scriptures that describe miscellaneous subjects of Jain Dharma)
 - [**Chatushraan Sutra**](https://jainqq.org/explore/034691/1)
   - [Other versions](https://jainqq.org/?q=Chatushraan%20Sutra&browse=1)
 - [**Atur Pratyakhyan**](https://jainqq.org/explore/035626/1)
@@ -155,8 +161,10 @@ The **Jain Literature Open Repository (JLOR)** is a public list of all canonical
   - [Other versions](https://jainqq.org/?q=Maha%20Pratyakhyan%20Sutra&browse=1)
 - [**Veerstava Sutra**](https://jainqq.org/explore/006865/1)
   - [Other versions](https://jainqq.org/?q=Veerstava%20Sutra&browse=1)
-- [****](https://jainqq.org/explore/000000/1)
-  - [Other versions](https://jainqq.org/?q=&browse=1)
+
+## 📖 Post-Canonical Literature
+These texts were written by prominent Acharyas and Upadhyays in the past two millenia.
+
 - [**Saman Suttam**](https://jainqq.org/explore/001939/1)
   - [Other versions](https://jainqq.org/?q=Saman%20Suttam&browse=1)
 - [**Sanmati Tarka**](https://jainqq.org/explore/001068/1)
@@ -188,19 +196,3 @@ The **Jain Literature Open Repository (JLOR)** is a public list of all canonical
 
 
 
-See the list of all our example apps in our [demos repository](https://github.com/meilisearch/demos).
-
-## ✨ Features
-- **Hybrid search:** Combine the best of both [semantic](https://www.meilisearch.com/docs/learn/experimental/vector_search?utm_campaign=oss&utm_source=github&utm_medium=meilisearch&utm_content=features) & full-text search to get the most relevant results
-- **Search-as-you-type:** Find & display results in less than 50 milliseconds to provide an intuitive experience
-- **[Typo tolerance](https://www.meilisearch.com/docs/learn/configuration/typo_tolerance?utm_campaign=oss&utm_source=github&utm_medium=meilisearch&utm_content=features):** get relevant matches even when queries contain typos and misspellings
-- **[Filtering](https://www.meilisearch.com/docs/learn/fine_tuning_results/filtering?utm_campaign=oss&utm_source=github&utm_medium=meilisearch&utm_content=features) and [faceted search](https://www.meilisearch.com/docs/learn/fine_tuning_results/faceted_search?utm_campaign=oss&utm_source=github&utm_medium=meilisearch&utm_content=features):** enhance your users' search experience with custom filters and build a faceted search interface in a few lines of code
-- **[Sorting](https://www.meilisearch.com/docs/learn/fine_tuning_results/sorting?utm_campaign=oss&utm_source=github&utm_medium=meilisearch&utm_content=features):** sort results based on price, date, or pretty much anything else your users need
-- **[Synonym support](https://www.meilisearch.com/docs/learn/configuration/synonyms?utm_campaign=oss&utm_source=github&utm_medium=meilisearch&utm_content=features):** configure synonyms to include more relevant content in your search results
-- **[Geosearch](https://www.meilisearch.com/docs/learn/fine_tuning_results/geosearch?utm_campaign=oss&utm_source=github&utm_medium=meilisearch&utm_content=features):** filter and sort documents based on geographic data
-- **[Extensive language support](https://www.meilisearch.com/docs/learn/what_is_meilisearch/language?utm_campaign=oss&utm_source=github&utm_medium=meilisearch&utm_content=features):** search datasets in any language, with optimized support for Chinese, Japanese, Hebrew, and languages using the Latin alphabet
-- **[Security management](https://www.meilisearch.com/docs/learn/security/master_api_keys?utm_campaign=oss&utm_source=github&utm_medium=meilisearch&utm_content=features):** control which users can access what data with API keys that allow fine-grained permissions handling
-- **[Multi-Tenancy](https://www.meilisearch.com/docs/learn/security/tenant_tokens?utm_campaign=oss&utm_source=github&utm_medium=meilisearch&utm_content=features):** personalize search results for any number of application tenants
-- **Highly Customizable:** customize Meilisearch to your specific needs or use our out-of-the-box and hassle-free presets
-- **[RESTful API](https://www.meilisearch.com/docs/reference/api/overview?utm_campaign=oss&utm_source=github&utm_medium=meilisearch&utm_content=features):** integrate Meilisearch in your technical stack with our plugins and SDKs
-- **Easy to install, deploy, and maintain**
