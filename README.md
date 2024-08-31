@@ -7,7 +7,7 @@ The **Jain Literature Open Repository (JLOR)** is a public list of all canonical
 
 
 > [!NOTE]  
-> Current translation quality is only acceptable for discoverability purposes and general understanding. Currently, Gemini-1.5 Flash and GPT-4o-mini is being used to generate the translations. The translation processing will be re-run over the next few years and it is expected the quality will improve immensely.
+> Current translation quality is only acceptable for discoverability purposes and general understanding. Currently, Gemini-1.5 Flash and GPT-4o-mini are being used to generate the translations. The translation processing will be re-run over the next few years and it is expected the quality will improve immensely.
 
 
 ## 📖 Anuyogas and Digambar Texts
