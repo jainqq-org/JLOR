@@ -66,6 +66,9 @@ The **Jain Literature Open Repository (JLOR)** is a public list of all canonical
   - [Other versions](https://jainqq.org/?q=Aptamimansa&browse=1)
 
 ## 📖 Shwetambar Agams
+> [!NOTE]  
+> All Agam commentaries that are publicly available are from Sthanakvasi or Terapanthi traditions. Other sects have restrictions on reading of Agams by laypeople. The actual texts are the same between the sub-sects, but certain auxiliary texts and explanations are different.
+
 ### 📚 Ang Agams (Oldest religious scriptures and the foundation of Jain literature)
 - [**Acharang Sutra**](https://jainqq.org/explore/006521/1)
   - [Other versions](https://jainqq.org/?q=Acharanga%20Sutra&browse=1)
