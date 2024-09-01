@@ -52,12 +52,12 @@ The **Jain Literature Open Repository (JLOR)** is a public list of all canonical
   - [Other versions](https://jainqq.org/?q=Gommatsara%20Jiva%20kanda&browse=1)
 
 ### 📚 Dravya Anuyoga (Philosophy)
-- [**Niyamasar**](https://jainqq.org/?q=Niyamasar&browse=1)
+- [**Niyamasar**](https://jainqq.org/?q=Niyamasar%20English&browse=1)
 - [**Panchastikaya**](https://jainqq.org/explore/090326/1)
   - [Other versions](https://jainqq.org/?q=Panchastikaya&browse=1)
 - [**Pravachanasar**](https://jainqq.org/explore/034445/1)
   - [Other versions](https://jainqq.org/?q=Pravachanasar&browse=1)
-- [**Samaysara**](https://jainqq.org/?q=Samaysara&browse=1)
+- [**Samaysara**](https://jainqq.org/?q=Samaysara%20English&browse=1)
 - [**Tattvartha Sutra**](https://jainqq.org/explore/008066/1)
   - [Other versions](https://jainqq.org/?q=Tattvartha%20Sutra&browse=1)
 - [**Sarvarthasiddhi**](https://jainqq.org/explore/001443/1)
@@ -67,7 +67,8 @@ The **Jain Literature Open Repository (JLOR)** is a public list of all canonical
 
 ## 📖 Shwetambar Agams
 ### 📚 Ang Agams (Oldest religious scriptures and the foundation of Jain literature)
-- [**Acharang Sutra**](https://jainqq.org/?q=Acharang%20Sutra&browse=1)
+- [**Acharang Sutra**](https://jainqq.org/explore/006521/1)
+  - [Other versions](https://jainqq.org/?q=Acharanga%20Sutra&browse=1)
 - [**Sutrakritanga Sutra**](https://jainqq.org/explore/032440/1)
   - [Other versions](https://jainqq.org/?q=Sutrakritanga%20Sutra&browse=1)
 - **Sthananga Sutra**
