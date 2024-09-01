@@ -9,7 +9,7 @@ The **Jain Literature Open Repository (JLOR)** is a public list of all canonical
 > [!NOTE]  
 > Current translation quality is only acceptable for discoverability purposes and general understanding. Currently, Gemini-1.5 Flash and Claude-Haiku LLM models are being used to generate the translations. The translation processing will be re-run over the next few years and it is expected the quality will improve immensely. With the current models, there may be hallucinations (repeated phrases or irrelevant phrases) given the nature of AI LLMs.
 
-Want to request a book to be translated? Email quantum@jainelibrary.org with the book link or title.
+_Want to request a book to be translated? Email quantum@jainelibrary.org with the book link or title._
 
 
 ## 📖 Anuyogas and Digambar Texts
