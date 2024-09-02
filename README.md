@@ -7,16 +7,13 @@ The **Jain Literature Open Repository (JLOR)** is a public list of all canonical
 
 
 > [!NOTE]  
-> Current translation quality is only acceptable for discoverability purposes and general understanding. Currently, Gemini-1.5 Flash and Claude-Haiku LLM models are being used to generate the translations. The translation processing will be re-run over the next few years and it is expected the quality will improve immensely. With the current models, there may be hallucinations (repeated phrases or irrelevant phrases) given the nature of AI LLMs.
+> Only texts that do not have English translations available have been processed. Current translation quality is only acceptable for discoverability purposes and general understanding. Currently, Gemini-1.5 Flash and Claude-Haiku LLM models are being used to generate the translations. The translation processing will be re-run over the next few years and it is expected the quality will improve immensely. With the current models, there may be hallucinations (repeated phrases or irrelevant phrases) given the nature of AI LLMs.
+
+_Want to request a book to be translated? Email quantum@jainelibrary.org with the book link or title._
 
 
 ## 📖 Anuyogas and Digambar Texts
 
-- [**Shatkhand Agam**](https://jainqq.org/explore/600006/1)
-  - [Other versions](https://jainqq.org/?q=Shatkhand%20Agam&browse=1)
-- [**Kashayapahud**](https://jainqq.org/explore/010396/1)
-  - [Other versions](https://jainqq.org/?q=Kashayapahud&browse=1)
- 
 ### 📚 Pratham Anuyoga (Religious stories)
 - **Padmapurana**
     - [**Padmapurana Part 1**](https://jainqq.org/explore/001822/1)
@@ -25,7 +22,10 @@ The **Jain Literature Open Repository (JLOR)** is a public list of all canonical
     - [Other versions](https://jainqq.org/?q=Padmapurana&browse=1)
 - [**Harivanshapurana**](https://jainqq.org/explore/001271/1)
   - [Other versions](https://jainqq.org/?q=Harivanshapurana&browse=1)
-- [**Adipurana**](https://jainqq.org/explore/002738/1)
+- **Adipurana**
+  - [**Adipurana Part 1**](https://jainqq.org/explore/090010/1)
+  - [**Adipurana Part 2**](https://jainqq.org/explore/090011/1)
+  - [**Adipurana manuscripts**](https://jainqq.org/explore/002738/1)
   - [Other versions](https://jainqq.org/?q=Adipurana&browse=1)
 - [**Uttara purana**](https://jainqq.org/explore/002728/1)
   - [Other versions](https://jainqq.org/?q=Uttara%20purana&browse=1)
@@ -35,7 +35,7 @@ The **Jain Literature Open Repository (JLOR)** is a public list of all canonical
   - [Other versions](https://jainqq.org/?q=Mulachar&browse=1)
 - [**Traivarnikachar**](https://jainqq.org/explore/010851/1)
   - [Other versions](https://jainqq.org/?q=Traivarnikachar&browse=1)
-- [**Ratnakarandaka Shravakachara**](https://jainqq.org/explore/010669/1)
+- [**Ratnakarandaka Shravakachara**](https://jainqq.org/explore/007745/1)
   - [Other versions](https://jainqq.org/?q=Ratnakarandaka%20Shravakachara&browse=1)
  
 ### 📚 Karana Anuyoga (Description of the Universe)
@@ -46,9 +46,9 @@ The **Jain Literature Open Repository (JLOR)** is a public list of all canonical
     - [**Karananuyoga Part 2**](https://jainqq.org/explore/090246/1)
     - [**Karananuyoga Part 3**](https://jainqq.org/explore/090247/1)
     - [Other versions](https://jainqq.org/?q=Karananuyoga&browse=1)
-- [**Gommatasara Karma kanda**](https://jainqq.org/explore/090180/1)
+- [**Gommatasara Karma kanda**](https://jainqq.org/explore/001611/1)
   - [Other versions](https://jainqq.org/?q=Gommatasara%20Karma%20kanda&browse=1)
-- [**Gommatsara Jiva kanda**](https://jainqq.org/explore/090177/1)
+- [**Gommatsara Jiva kanda**](https://jainqq.org/explore/001612/1)
   - [Other versions](https://jainqq.org/?q=Gommatsara%20Jiva%20kanda&browse=1)
 
 ### 📚 Dravya Anuyoga (Philosophy)
@@ -65,7 +65,17 @@ The **Jain Literature Open Repository (JLOR)** is a public list of all canonical
 - [**Aptamimansa**](https://jainqq.org/explore/001170/1)
   - [Other versions](https://jainqq.org/?q=Aptamimansa&browse=1)
 
+### Digambar Agams
+- [**Shatkhand Agam**](https://jainqq.org/explore/600006/1)
+  - [Other versions](https://jainqq.org/?q=Shatkhandagam&browse=1)
+- [**Kashayapahud**](https://jainqq.org/explore/010396/1)
+  - [Other versions](https://jainqq.org/?q=Kashayapahud&browse=1)
+ 
+
 ## 📖 Shwetambar Agams
+> [!NOTE]  
+> All Agam commentaries that are publicly available are from Sthanakvasi or Terapanthi traditions. Other sects have restrictions on reading of Agams by laypeople. The actual texts are the same between the sub-sects, but certain auxiliary texts and explanations are different.
+
 ### 📚 Ang Agams (Oldest religious scriptures and the foundation of Jain literature)
 - [**Acharang Sutra**](https://jainqq.org/explore/006521/1)
   - [Other versions](https://jainqq.org/?q=Acharanga%20Sutra&browse=1)
@@ -149,7 +159,7 @@ The **Jain Literature Open Repository (JLOR)** is a public list of all canonical
 ### 📚 Prakirnak Sutras (Scriptures that describe miscellaneous subjects of Jain Dharma)
 - [**Chatushraan Sutra**](https://jainqq.org/explore/034691/1)
   - [Other versions](https://jainqq.org/?q=Chatushraan%20Sutra&browse=1)
-- [**Atur Pratyakhyan**](https://jainqq.org/explore/035626/1)
+- [**Atur Pratyakhyan**](https://jainqq.org/explore/002562/1)
   - [Other versions](https://jainqq.org/?q=Atur%20Pratyakhyan&browse=1)
 - [**Bhaktaparigna Sutra**](https://jainqq.org/explore/034694/1)
   - [Other versions](https://jainqq.org/?q=Bhaktaparigna%20Sutra&browse=1)
