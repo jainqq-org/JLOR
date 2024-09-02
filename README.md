@@ -62,7 +62,7 @@ _Want to request a book to be translated? Email quantum@jainelibrary.org with th
 - [**Aptamimansa**](https://jainqq.org/explore/001170/1)
   - [Other versions](https://jainqq.org/?q=Aptamimansa&browse=1)
 
-
+### Digambar Agams
 - [**Shatkhand Agam**](https://jainqq.org/explore/600006/1)
   - [Other versions](https://jainqq.org/?q=Shatkhandagam&browse=1)
 - [**Kashayapahud**](https://jainqq.org/explore/010396/1)
