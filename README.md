@@ -7,7 +7,7 @@ The **Jain Literature Open Repository (JLOR)** is a public list of all canonical
 
 
 > [!NOTE]  
-> Current translation quality is only acceptable for discoverability purposes and general understanding. Currently, Gemini-1.5 Flash and Claude-Haiku LLM models are being used to generate the translations. The translation processing will be re-run over the next few years and it is expected the quality will improve immensely. With the current models, there may be hallucinations (repeated phrases or irrelevant phrases) given the nature of AI LLMs.
+> Only texts that do not have English translations available have been processed. Current translation quality is only acceptable for discoverability purposes and general understanding. Currently, Gemini-1.5 Flash and Claude-Haiku LLM models are being used to generate the translations. The translation processing will be re-run over the next few years and it is expected the quality will improve immensely. With the current models, there may be hallucinations (repeated phrases or irrelevant phrases) given the nature of AI LLMs.
 
 _Want to request a book to be translated? Email quantum@jainelibrary.org with the book link or title._
 
@@ -32,7 +32,7 @@ _Want to request a book to be translated? Email quantum@jainelibrary.org with th
   - [Other versions](https://jainqq.org/?q=Mulachar&browse=1)
 - [**Traivarnikachar**](https://jainqq.org/explore/010851/1)
   - [Other versions](https://jainqq.org/?q=Traivarnikachar&browse=1)
-- [**Ratnakarandaka Shravakachara**](https://jainqq.org/explore/010669/1)
+- [**Ratnakarandaka Shravakachara**](https://jainqq.org/explore/007745/1)
   - [Other versions](https://jainqq.org/?q=Ratnakarandaka%20Shravakachara&browse=1)
  
 ### 📚 Karana Anuyoga (Description of the Universe)
@@ -43,9 +43,9 @@ _Want to request a book to be translated? Email quantum@jainelibrary.org with th
     - [**Karananuyoga Part 2**](https://jainqq.org/explore/090246/1)
     - [**Karananuyoga Part 3**](https://jainqq.org/explore/090247/1)
     - [Other versions](https://jainqq.org/?q=Karananuyoga&browse=1)
-- [**Gommatasara Karma kanda**](https://jainqq.org/explore/090180/1)
+- [**Gommatasara Karma kanda**](https://jainqq.org/explore/001611/1)
   - [Other versions](https://jainqq.org/?q=Gommatasara%20Karma%20kanda&browse=1)
-- [**Gommatsara Jiva kanda**](https://jainqq.org/explore/090177/1)
+- [**Gommatsara Jiva kanda**](https://jainqq.org/explore/001612/1)
   - [Other versions](https://jainqq.org/?q=Gommatsara%20Jiva%20kanda&browse=1)
 
 ### 📚 Dravya Anuyoga (Philosophy)
