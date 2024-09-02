@@ -14,11 +14,6 @@ _Want to request a book to be translated? Email quantum@jainelibrary.org with th
 
 ## 📖 Anuyogas and Digambar Texts
 
-- [**Shatkhand Agam**](https://jainqq.org/explore/600006/1)
-  - [Other versions](https://jainqq.org/?q=Shatkhandagam&browse=1)
-- [**Kashayapahud**](https://jainqq.org/explore/010396/1)
-  - [Other versions](https://jainqq.org/?q=Kashayapahud&browse=1)
- 
 ### 📚 Pratham Anuyoga (Religious stories)
 - **Padmapurana**
     - [**Padmapurana Part 1**](https://jainqq.org/explore/001822/1)
@@ -66,6 +61,13 @@ _Want to request a book to be translated? Email quantum@jainelibrary.org with th
   - [Other versions](https://jainqq.org/?q=Sarvarthasiddhi&browse=1)
 - [**Aptamimansa**](https://jainqq.org/explore/001170/1)
   - [Other versions](https://jainqq.org/?q=Aptamimansa&browse=1)
+
+
+- [**Shatkhand Agam**](https://jainqq.org/explore/600006/1)
+  - [Other versions](https://jainqq.org/?q=Shatkhandagam&browse=1)
+- [**Kashayapahud**](https://jainqq.org/explore/010396/1)
+  - [Other versions](https://jainqq.org/?q=Kashayapahud&browse=1)
+ 
 
 ## 📖 Shwetambar Agams
 > [!NOTE]  
