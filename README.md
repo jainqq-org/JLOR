@@ -59,6 +59,7 @@ _Want to request a book to be translated? Email quantum@jainelibrary.org with th
   - [Other versions](https://jainqq.org/?q=Pravachanasar&browse=1)
 - [**Samaysara**](https://jainqq.org/?q=Samaysara%20English&browse=1)
 - [**Tattvartha Sutra**](https://jainqq.org/explore/008066/1)
+  - [**Tattvartha Sutra (2005 transl.)**][https://jainqq.org/explore/001934/1] 
   - [Other versions](https://jainqq.org/?q=Tattvartha%20Sutra&browse=1)
 - [**Sarvarthasiddhi**](https://jainqq.org/explore/001443/1)
   - [**Sarvarthasiddhi (1992 transl.)**](https://jainqq.org/explore/001197/1)
