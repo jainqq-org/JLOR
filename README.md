@@ -156,7 +156,7 @@ _Want to request a book to be translated? Email quantum@jainelibrary.org with th
 ### 📚 Prakirnak Sutras (Scriptures that describe miscellaneous subjects of Jain Dharma)
 - [**Chatushraan Sutra**](https://jainqq.org/explore/034691/1)
   - [Other versions](https://jainqq.org/?q=Chatushraan%20Sutra&browse=1)
-- [**Atur Pratyakhyan**](https://jainqq.org/explore/035626/1)
+- [**Atur Pratyakhyan**](https://jainqq.org/explore/002562/1)
   - [Other versions](https://jainqq.org/?q=Atur%20Pratyakhyan&browse=1)
 - [**Bhaktaparigna Sutra**](https://jainqq.org/explore/034694/1)
   - [Other versions](https://jainqq.org/?q=Bhaktaparigna%20Sutra&browse=1)
