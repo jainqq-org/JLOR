@@ -61,7 +61,7 @@ _Want to request a book to be translated? Email quantum@jainelibrary.org with th
 - [**Tattvartha Sutra**](https://jainqq.org/explore/008066/1)
   - [Other versions](https://jainqq.org/?q=Tattvartha%20Sutra&browse=1)
 - [**Sarvarthasiddhi**](https://jainqq.org/explore/001443/1)
-  - [**Sarvarthasiddhi (English)**](https://jainqq.org/explore/001197/1) ()
+  - [**Sarvarthasiddhi (English)**](https://jainqq.org/explore/001197/1)
   - [Other versions](https://jainqq.org/?q=Sarvarthasiddhi&browse=1)
 - [**Aptamimansa**](https://jainqq.org/explore/001170/1)
   - [Other versions](https://jainqq.org/?q=Aptamimansa&browse=1)
