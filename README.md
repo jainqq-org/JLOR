@@ -22,7 +22,10 @@ _Want to request a book to be translated? Email quantum@jainelibrary.org with th
     - [Other versions](https://jainqq.org/?q=Padmapurana&browse=1)
 - [**Harivanshapurana**](https://jainqq.org/explore/001271/1)
   - [Other versions](https://jainqq.org/?q=Harivanshapurana&browse=1)
-- [**Adipurana**](https://jainqq.org/explore/002738/1)
+- **Adipurana**
+  - [**Adipurana Part 1**](https://jainqq.org/explore/090010/1)
+  - [**Adipurana Part 2**](https://jainqq.org/explore/090011/1)
+  - [**Adipurana manuscripts**](https://jainqq.org/explore/002738/1)
   - [Other versions](https://jainqq.org/?q=Adipurana&browse=1)
 - [**Uttara purana**](https://jainqq.org/explore/002728/1)
   - [Other versions](https://jainqq.org/?q=Uttara%20purana&browse=1)
