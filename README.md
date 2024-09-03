@@ -91,7 +91,9 @@ _Want to request a book to be translated? Email quantum@jainelibrary.org with th
   - [Other versions](https://jainqq.org/?q=Samvayanga%20Sutra&browse=1)
 - [**Bhagavati Sutra**](https://jainqq.org/explore/002902/1)
   - [Other versions](https://jainqq.org/?q=Bhagavati%20Sutra&browse=1)
-- [**Gnata Dharma Kathanga Sutra**](https://jainqq.org/explore/007650/1)
+- **Gnata Dharma Kathanga Sutra**
+  - [**Gnata Dharma Kathanga Sutra Part 1**](https://jainqq.org/explore/007650/1)
+  - [**Gnata Dharma Kathanga Sutra Part 2**](https://jainqq.org/explore/007651/1)
   - [Other versions](https://jainqq.org/?q=Gnata%20Dharma%20Kathanga%20Sutra&browse=1)
 - [**Upasaka Dashanga Sutra**](https://jainqq.org/explore/003447/1)
   - [Other versions](https://jainqq.org/?q=Upasaka%20Dashanga%20Sutra&browse=1)
