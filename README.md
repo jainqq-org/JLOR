@@ -134,7 +134,7 @@ _Want to request a book to be translated? Email quantum@jainelibrary.org with th
 - [**Nishith Sutra**](https://jainqq.org/explore/003462/1)
   - [Other versions](https://jainqq.org/?q=Nishith%20Sutra&browse=1)
 - [**Bruhat Kalpa Sutra**](https://jainqq.org/explore/003493/1)
-  - [**Bruhatkalpa Sutra**](https://jainqq.org/explore/002158/1)
+  - [**Bruhatkalpa Sutra (transl. 1979)**](https://jainqq.org/explore/002158/1)
   - [Other versions](https://jainqq.org/?q=Bruhat%20Kalpa%20Sutra&browse=1)
 - [**Vyavahara Sutra**](https://jainqq.org/explore/003494/1)
   - [Other versions](https://jainqq.org/?q=Vyavahara%20Sutra&browse=1)
