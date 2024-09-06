@@ -79,7 +79,9 @@ _Want to request a book to be translated? Email quantum@jainelibrary.org with th
 > All Agam commentaries that are publicly available are from Sthanakvasi or Terapanthi traditions. Other sects have restrictions on reading of Agams by laypeople. The actual texts are the same between the sub-sects, but certain auxiliary texts and explanations are different.
 
 ### 📚 Ang Agams (Oldest religious scriptures and the foundation of Jain literature)
-- [**Acharang Sutra**](https://jainqq.org/explore/006521/1)
+- [**Acharang Sutra**]
+  - [**Acharang Sutra Part 1**](https://jainqq.org/explore/007646/1)
+  - [**Acharang Sutra Part 2**](https://jainqq.org/explore/007647/1)
   - [Other versions](https://jainqq.org/?q=Acharanga%20Sutra&browse=1)
 - [**Sutrakritanga Sutra**](https://jainqq.org/explore/032440/1)
   - [Other versions](https://jainqq.org/?q=Sutrakritanga%20Sutra&browse=1)
