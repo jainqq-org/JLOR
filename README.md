@@ -59,8 +59,10 @@ _Want to request a book to be translated? Email quantum@jainelibrary.org with th
   - [Other versions](https://jainqq.org/?q=Pravachanasar&browse=1)
 - [**Samaysara**](https://jainqq.org/?q=Samaysara%20English&browse=1)
 - [**Tattvartha Sutra**](https://jainqq.org/explore/008066/1)
+  - [**Tattvartha Sutra (2005 transl.)**](https://jainqq.org/explore/001934/1)
   - [Other versions](https://jainqq.org/?q=Tattvartha%20Sutra&browse=1)
 - [**Sarvarthasiddhi**](https://jainqq.org/explore/001443/1)
+  - [**Sarvarthasiddhi (1992 transl.)**](https://jainqq.org/explore/001197/1)
   - [Other versions](https://jainqq.org/?q=Sarvarthasiddhi&browse=1)
 - [**Aptamimansa**](https://jainqq.org/explore/001170/1)
   - [Other versions](https://jainqq.org/?q=Aptamimansa&browse=1)
@@ -77,7 +79,9 @@ _Want to request a book to be translated? Email quantum@jainelibrary.org with th
 > All Agam commentaries that are publicly available are from Sthanakvasi or Terapanthi traditions. Other sects have restrictions on reading of Agams by laypeople. The actual texts are the same between the sub-sects, but certain auxiliary texts and explanations are different.
 
 ### 📚 Ang Agams (Oldest religious scriptures and the foundation of Jain literature)
-- [**Acharang Sutra**](https://jainqq.org/explore/006521/1)
+- [**Acharang Sutra**]
+  - [**Acharang Sutra Part 1**](https://jainqq.org/explore/007646/1)
+  - [**Acharang Sutra Part 2**](https://jainqq.org/explore/007647/1)
   - [Other versions](https://jainqq.org/?q=Acharanga%20Sutra&browse=1)
 - [**Sutrakritanga Sutra**](https://jainqq.org/explore/032440/1)
   - [Other versions](https://jainqq.org/?q=Sutrakritanga%20Sutra&browse=1)
@@ -89,7 +93,9 @@ _Want to request a book to be translated? Email quantum@jainelibrary.org with th
   - [Other versions](https://jainqq.org/?q=Samvayanga%20Sutra&browse=1)
 - [**Bhagavati Sutra**](https://jainqq.org/explore/002902/1)
   - [Other versions](https://jainqq.org/?q=Bhagavati%20Sutra&browse=1)
-- [**Gnata Dharma Kathanga Sutra**](https://jainqq.org/explore/007650/1)
+- **Gnata Dharma Kathanga Sutra**
+  - [**Gnata Dharma Kathanga Sutra Part 1**](https://jainqq.org/explore/007650/1)
+  - [**Gnata Dharma Kathanga Sutra Part 2**](https://jainqq.org/explore/007651/1)
   - [Other versions](https://jainqq.org/?q=Gnata%20Dharma%20Kathanga%20Sutra&browse=1)
 - [**Upasaka Dashanga Sutra**](https://jainqq.org/explore/003447/1)
   - [Other versions](https://jainqq.org/?q=Upasaka%20Dashanga%20Sutra&browse=1)
@@ -130,6 +136,7 @@ _Want to request a book to be translated? Email quantum@jainelibrary.org with th
 - [**Nishith Sutra**](https://jainqq.org/explore/003462/1)
   - [Other versions](https://jainqq.org/?q=Nishith%20Sutra&browse=1)
 - [**Bruhat Kalpa Sutra**](https://jainqq.org/explore/003493/1)
+  - [**Bruhatkalpa Sutra (transl. 1979)**](https://jainqq.org/explore/002158/1)
   - [Other versions](https://jainqq.org/?q=Bruhat%20Kalpa%20Sutra&browse=1)
 - [**Vyavahara Sutra**](https://jainqq.org/explore/003494/1)
   - [Other versions](https://jainqq.org/?q=Vyavahara%20Sutra&browse=1)
