@@ -87,6 +87,7 @@ _Want to request a book to be translated? Email quantum@jainelibrary.org with th
   - [**Acharang Sutra Part 2**](https://jainqq.org/explore/007647/1) ✅ Verified (Amar Muni)
   - [Other versions](https://jainqq.org/?q=Acharanga%20Sutra&browse=1)
 - [**Sutrakritanga Sutra**](https://jainqq.org/explore/032440/1)
+  - [**Sutrakritanga Sutra**](https://jainqq.org/explore/011060/1) ✅ Verified (Hermann Jacobi)
   - [Other versions](https://jainqq.org/?q=Sutrakritanga%20Sutra&browse=1)
 - **Sthananga Sutra**
     - [**Sthananga Sutra Part 1**](https://jainqq.org/explore/002905/1) ✅ Verified (Amar Muni, Shreechand Surana)
