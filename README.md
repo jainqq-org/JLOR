@@ -11,7 +11,7 @@ The **Jain Literature Open Repository (JLOR)** is a public list of all canonical
 
 _Want to request a book to be translated? Email quantum@jainelibrary.org with the book link or title._
 
-_If you are a Jain scholar (or know a Sadhu/Pandit) that wants to work on a verified translation, please email us at quantum@jainelibrary.org._
+**_If you are a Jain scholar (or know a Sadhu/Pandit) that wants to work on a verified translation, please email us at quantum@jainelibrary.org._**
 
 ✅ Verified - Denotes a verified English translation by a Jain scholar.
 
