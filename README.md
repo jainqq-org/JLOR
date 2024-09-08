@@ -165,6 +165,7 @@ _If you are a Jain scholar (or know a Sadhu/Pandit) that wants to work on a veri
 - [**Nandi Sutra**](https://jainqq.org/explore/007652/1) ✅ Verified (Amar Muni)
   - [Other versions](https://jainqq.org/?q=Nandi%20Sutra&browse=1)
 - [**Anuyogadvara Sutra**](https://jainqq.org/explore/007655/1) ✅ Verified (Amar Muni)
+  - [**Anuyogadvara Sutra**](https://jainqq.org/explore/006568/1) ✅ Verified (Nathmal Tatia)
   - [Other versions](https://jainqq.org/?q=Anuyogadvara%20Sutra&browse=1)
 
 ### 📚 Prakirnak Sutras (Scriptures that describe miscellaneous subjects of Jain Dharma)
