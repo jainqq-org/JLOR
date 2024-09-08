@@ -13,6 +13,7 @@ _Want to request a book to be translated? Email quantum@jainelibrary.org with th
 
 _If you are a Jain scholar (or know a Sadhu/Pandit) that wants to work on a verified translation, please email us at quantum@jainelibrary.org._
 
+✅ Verified - Denotes a verified English translation by a Jain scholar.
 
 ## 📖 Anuyogas and Digambar Texts
 
