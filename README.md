@@ -57,6 +57,7 @@ _Want to request a book to be translated? Email quantum@jainelibrary.org with th
 ### 📚 Dravya Anuyoga (Philosophy)
 - [**Niyamasar**](https://jainqq.org/?q=Niyamasar%20English&browse=1) ✅ Verified (multiple authors)
 - [**Panchastikaya**](https://jainqq.org/explore/090326/1)
+  - [**Panchastikaya sangraha**](https://jainqq.org/explore/036508/1) ✅ Verified (Vijay K Jain)
   - [Other versions](https://jainqq.org/?q=Panchastikaya&browse=1)
 - [**Pravachanasar**](https://jainqq.org/explore/034445/1) ✅ Verified (Vijay K Jain)
   - [Other versions](https://jainqq.org/?q=Pravachanasar&browse=1)
@@ -70,7 +71,7 @@ _Want to request a book to be translated? Email quantum@jainelibrary.org with th
 - [**Aptamimansa**](https://jainqq.org/explore/001170/1)
   - [Other versions](https://jainqq.org/?q=Aptamimansa&browse=1)
 
-### Digambar Agams
+### Digambar Texts
 - [**Shatkhand Agam**](https://jainqq.org/explore/600006/1)
   - [Other versions](https://jainqq.org/?q=Shatkhandagam&browse=1)
 - [**Kashayapahud**](https://jainqq.org/explore/010396/1)
