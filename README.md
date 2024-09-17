@@ -106,7 +106,7 @@ _Want to request a book to be translated? Email quantum@jainelibrary.org with th
   - [**Upasakdasha and Anuttarau Papatikdasha sutra**](https://jainqq.org/explore/007654/1) ✅ Verified (Amar Muni, Tarun Muni)
   - [Other versions](https://jainqq.org/?q=Upasaka%20Dashanga%20Sutra&browse=1)
 - [**Anantkrut Dashang Sutra**](https://jainqq.org/explore/003448/1)
-  - [**Antkrutdashang Sutra**] (https://jainqq.org/explore/007648/1) ✅ Verified (Amar Muni, Shreechand Surana)
+  - [**Antkrutdashang Sutra**](https://jainqq.org/explore/007648/1) ✅ Verified (Amar Muni, Shreechand Surana)
   - [Other versions](https://jainqq.org/?q=Anantkrut%20Dashang%20Sutra&browse=1)
 - [**Anuttaropapatik Sutra**](https://jainqq.org/explore/003449/1)
   - [Other versions](https://jainqq.org/?q=Anuttaropapatik%20Sutra&browse=1)
